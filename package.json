@@ -26,7 +26,13 @@
     "express": "^4.2.0"
   },
   "engines": {
+<<<<<<< HEAD
     "node": "0.10.x",
     "npm": "1.0.x"
   }
+=======
+  "node": "0.6.x",
+  "npm": "1.1.x"
+ }
+>>>>>>> FETCH_HEAD
 }
